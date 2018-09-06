@@ -1,0 +1,55 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none; 
+    color: gold;
+}
+
+a:hover {
+    font-weight: bold;
+    cursor: pointer;
+    color: red;
+}
+.boxes {
+    display: block;
+    margin: 1em;
+    padding: 1em;
+    border: 5px black solid;
+    border-radius: 10px;
+    width: 20%;
+}
+
+#box1, #box2 {
+    float: left;
+}
+
+#box1 {
+    background-color: brown;
+}
+
+#box2{
+    background-color: burlywood;
+    position: relative;
+}
+
+#box3{
+    float: none;
+    clear: both;
+    background-color: tomato;
+}
+
+#box4{
+    background-color: palevioletred;
+}
+
+span {
+    font-weight: bold;
+    color: aqua;    
+}
