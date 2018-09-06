@@ -40,8 +40,8 @@ a:hover {
 }
 
 #box3{
-    float: none;
     clear: both;
+    float: none;
     background-color: tomato;
 }
 
@@ -51,5 +51,6 @@ a:hover {
 
 span {
     font-weight: bold;
-    color: aqua;    
+    color: aqua;
 }
+
