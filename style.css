@@ -21,6 +21,19 @@ a {
     color: gold;
 }
 
+span {
+    font-weight: bold;
+    color: aqua;
+}
+
+h1.fav {
+    color: purple;
+}
+
+h1.fav2 {
+    color: yellowgreen;
+}
+
 a:hover {
     font-weight: bold;
     cursor: pointer;
@@ -58,9 +71,3 @@ a:hover {
 #box4{
     background-color: palevioletred;
 }
-
-span {
-    font-weight: bold;
-    color: aqua;
-}
-
