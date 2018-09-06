@@ -56,6 +56,24 @@ a:hover {
     vertical-align: middle;
 }
 
+.list {
+    border: solid black 2px;
+    padding: 2px;
+    width: 150px;
+}
+
+.destinations {
+    color: indigo;
+}
+
+.food {
+    color: rgb(72, 107, 83);
+}
+
+.friends {
+    color: rgb(0, 75, 85);
+}
+
 #box1 {
     background-color: brown;
 }
@@ -70,4 +88,24 @@ a:hover {
 
 #box4{
     background-color: palevioletred;
+}
+
+#show1 {
+    color:green;
+}
+
+#show2 {
+    color: pink;
+}
+
+#show3 {
+    color: maroon;
+}
+
+#show4 {
+    color: coral;
+}
+
+#show5 {
+    color: slateblue;
 }
