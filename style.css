@@ -27,7 +27,6 @@ a:hover {
 }
 
 #box1, #box2 {
-    float: left;
 }
 
 #box1 {
@@ -36,12 +35,9 @@ a:hover {
 
 #box2{
     background-color: burlywood;
-    position: relative;
 }
 
 #box3{
-    clear: both;
-    float: none;
     background-color: tomato;
 }
 
